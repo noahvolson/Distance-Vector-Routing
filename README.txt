@@ -18,7 +18,6 @@ CS 3516 Computer Networks
 
 ---Additional Notes---
     Table is in format: Row = source, column = destination
-    As described in the piazza post: "What Should our Final Table Look Like?"
    
     Example: 
                 D0 |    dst 0 dst 1 dst 2 dst 3
